@@ -1,0 +1,475 @@
+.navbar{
+-webkit-box-shadow: 0 8px 6px -6px black;
+-moz-box-shadow: 0 8px 6px -6px black;
+box-shadow: 0 8px 6px -6px black;
+}
+.sec1{
+background-color: #7451eb !important;
+text-align: ;
+padding-top: 20px;
+
+}
+.image{
+text-align: left;
+}
+.hadding{
+text-align: right;
+}
+.cardx{
+	border: none;
+}
+.cardsss{
+	padding-bottom: 50px;
+	padding-top: 50px;
+	border: none;
+}
+.carousel-inner img
+{
+	width: 400px;
+}
+.video{
+	background: #c4c2c1;
+	padding-bottom: 50px;
+	padding-top: 50px;
+}
+.card-img-top{
+	height: 200px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	display: flex;
+	justify-content: center;
+}
+.card-body{
+	border: none;
+}
+.lastsection{
+	background-color:  #003668 !important;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.h{
+	display: block;
+}
+.carouselll{
+	padding-bottom: 30px;
+	padding-top: 30px;
+}
+
+.carousel {
+	margin: 50px auto;
+	padding: 0 70px;
+}
+.carousel .item {
+	color: #999;
+	
+    min-height: 120px;
+	font-size: 13px;
+}
+
+.carousel .testimonial {
+	padding: 0 15px 0 60px ;
+	position: relative;
+}
+.carousel .overview b {
+	text-transform: uppercase;
+	color: #1c47e3;
+}
+.carousel .carousel-indicators {
+	bottom: -60px;
+}
+.carousel-indicators li, .carousel-indicators li.active {
+	width: 18px;
+    height: 18px;
+	border-radius: 50%;
+	margin: 1px 3px;
+}
+
+.carousel-indicators li.active {
+	color: #fff;
+    background: #1c47e3;    
+    border: 5px double;    
+}
+.footer{
+	border: none;
+	padding-top: 20px;
+	padding-bottom: 30px;
+	font-size: 15px;
+	line-height: 2rem;
+}
+.footer a{
+	padding-top: 10px;
+}
+.icons{
+	padding-top: 20px;
+	padding-bottom: 30px;
+	text-align: center;
+}
+.learnmore{
+	padding-top: 25px;
+}
+.footer h2{
+	font-size: 20px;
+}
+.gap {
+     margin-left: 15px
+ }
+ .logo{
+ 	height: 25px;
+ 	width: 300px;
+ 	margin-left: 50px;
+ }
+ .nav-link{
+ 	margin-left: 20px;
+ 	font-size: 20px;
+    white-space: nowrap;
+ 	color: black !important;
+ }
+ .before{
+ 	width: 1px;
+    content: "";
+    display: block;
+    margin-left: 16px;
+    background-color: #d2d2d2
+ }
+.singup{
+	 	margin-left: 10px;
+	 	margin-right: 20px;
+	 	font-size: 20px;
+	 	font: bold;
+}
+.btnn{
+	background-color: blue;
+	color: white;
+}
+.btnnnn{
+	
+	color: blue;
+}
+.spn{
+	background-color: rgb(0, 54, 104);
+    color: rgb(255, 255, 255);
+    box-shadow: rgb(0, 54, 104) 16px 0px 0px, rgb(0, 54, 104) -16px 0px 0px;
+    margin-top: 16px;
+    font-size: 2.5rem;
+    font-weight: 700;
+    line-height: 3.125rem;
+    letter-spacing: 0
+}
+.spnn{
+	 color: white;
+}
+.paragraph{
+	color: white;
+	 margin-top: 30px;
+	 margin-bottom: 30px;
+    letter-spacing: 0
+}
+.button{
+	color: #7451eb;
+    padding: 9px 10px;
+    background-color: #fff;
+}
+
+
+
+.btn-store {
+  color: #777777;
+  min-width: 200px;
+  height: 60px;
+  padding: 10px 15px !important;
+  border-color: #dddddd !important;
+}
+
+.btn-store:focus, 
+.btn-store:hover {
+  color: #ffffff !important;
+  background-color: gray ;
+  border-color: #168eea !important;
+  padding-top: 50px;
+}
+
+.btn-store .btn-label, 
+.btn-store .btn-caption {
+  display: block;
+  text-align: left;
+  line-height: 1;
+}
+
+.btn-store .btn-caption {
+  font-size: 20px;
+}
+.lastdiv{
+	padding-top: 10px;
+	color: white;
+}
+
+.boxsize a{
+	padding: 5px 10px;
+	padding-right: 15px;
+  	text-align: center;
+  	background-color: white !important;
+  	color: black !important;
+  	font-weight: bold;
+  	font-size: 18px;
+  	border-color: gray;
+}
+.discover a{
+	padding: 5px 10px;
+	background-color: white !important;
+	color: blue !important;
+}
+.dropup{
+	padding-top: 10px;
+}
+.dropup button{
+	width: 200px;
+	height: 50px;
+	background-color: gray !important;
+	color: white;
+}
+.dropdown-menu{
+	width: 200px;
+}
+.icon i{
+  font-size: 1.6em;
+  width: 1.6em;
+  text-align: center;
+  line-height: 1.6em;
+  background: #666;
+  color: #fff;
+  border-radius: 0.8em;
+}
+.icon{
+	padding-top: 20px;
+	word-spacing: 10px;
+	padding-bottom: 15px;
+}
+
+/*............. Sign Up section ..................*/
+
+.signupsection{
+	padding-top: 50px;
+	padding-bottom: 50px;
+	background-image: url("Images/bgsignup.jpg");
+}
+.heading{
+	background-color: white!important;
+	width: 42% !important;
+-webkit-box-shadow: 0 10px 6px -6px black;
+-moz-box-shadow: 0 10px 6px -6px black;
+box-shadow: 0 8px 10px -6px black;
+padding-top: 20px;
+padding-bottom: 20px;
+}
+.heading h1{
+	font-size: 40px;
+	font-weight: bold;
+	padding-top: 5px;
+	padding-bottom: 10px;
+}
+.signupsection p{
+	font-size: 20px;
+	padding-top: 10px;
+}
+.signupsection img{
+	height : 30px;
+	width : 30px;
+	padding-bottom: 5px;
+}
+.forms{
+	text-align: center;
+	width: 100%;
+	margin: auto;
+	padding-top: 20px;
+}
+.forms p{
+	font-size: 15px;
+	text-align: left;
+}
+.checkbox{
+	font-size: 15px;
+	text-align: left;
+	padding-bottom: 15px;
+}
+.cr{
+	width:50px;
+    height:50px;
+}
+.submittt p{
+	text-align: center;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+.signupsection button{
+	border: 1px solid gray;
+	width: 180px;
+	height: 40px;
+	margin: 10px 10px;
+	color: black;
+	font-size: 20px;
+	text-align: center;
+	background-color: white;
+}
+
+/*.............. Business Section start ..........*/
+
+.businesssec1{
+	background-color: #003668;
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+.businesssec1 h1{
+	font-size: 40px;
+	font-weight: bold;
+	padding-top: 0;
+	padding-bottom: 20px;
+	color: white;
+}
+.businesssec1 p{
+	font-size: 20px;
+	padding-top: 0;
+	padding-bottom: 20px;
+	color: white;
+}
+.businesssec1 a{
+	color: blue;
+	font-weight: bold;
+	font-size: 15px;
+	background-color: white;
+}
+.section2 ul{
+	display: flex;
+	list-style: none;
+	margin: 56px;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.section3{
+    background-color: #ddd;
+}
+.para1{
+	font-size: 20px;
+	padding-top: 130px;
+}
+.section3 ul{
+	font-size: 20px;
+	text-align: left;
+}
+
+.carousel-item.active,
+.carousel-item-next,
+.carousel-item-prev{
+    display:block;
+}
+.businessh1{
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+.businesssec{
+	background-color:  #003668;
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+.card-header{
+	background: none!important;
+}
+.card-header h4{
+	background: none!important;
+	padding-bottom: 70px;
+
+}
+.card-body{
+	padding-top: 20px;
+}
+.card-footer{
+	background: none!important;
+}
+.card-footer:last-child{
+	padding-top: 100px;
+	margin-bottom: -70px;
+}
+.card{
+	padding-top: 20px;
+	padding-bottom: 100px;
+	margin-top: -150px;
+	background: none;
+}
+/*.................. Section #05 ...............*/
+
+.section5{
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+.section5 h4{
+	color: #003668;
+	text-align: center;
+	font-weight: bold;
+	font-size: 25px;
+	width: 370px;
+	height: 70px;
+	padding-bottom: 100px;
+}
+.section5 p{
+	text-align: center;
+	width: 370px;
+	height: 70px;
+}
+.section5 h1{
+	margin-bottom: 50px;
+	font-weight: bold;
+	font-size: 40px;
+	color: #003668;
+}
+
+/*................... Section 05 End .............*/
+
+.section6{
+	padding-top: 10px;
+	padding-bottom: 100px;
+}
+.section6 h1{
+	padding-bottom: 40px;
+	font-weight: bold;
+	font-size: 40px;
+	color: #003668;
+}
+.vediosecparagraph{
+	margin: auto;
+}
+.section6 p{
+	font-size: 20px;
+}
+
+/*................... section 07 ...........*/
+
+/*.section7{
+	width: 100%;
+	height: 100vh;
+	position: relative;
+}
+.section7:before{
+	content: "";
+	position: absolute;
+	top: 0%;
+	bottom: 0%;
+	left: 0;
+	right: 0;
+	background: linear-gradient(160deg, #003668 5%, #fff 0)
+}*/
+
+.section7{
+	padding-bottom: 50px;
+}
+.section7 h1{
+	color: #003668;
+	padding: 20px;
+}
+.section7 a{
+	margin-left: 20px;
+	margin-bottom: 20px;
+}
+.section7container{
+	background-color: #03e8fc;
+}
